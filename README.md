@@ -1,4 +1,5 @@
 # DodgeTheAsteroids
+
 The official repository for Dodge The Asteroids!
 
 This is a fun little game I decided to build as a way to learn about the pygame module and how it works. I thought it would just be annother project I'll trash in 1 month, 
@@ -13,3 +14,7 @@ I realized I only scratched the surface and I started to add a file system to sa
 from across the world.
 
 So the moral of the story, don't follow the tutorial :).
+
+# Setup
+
+Download this repository and run the 'install.sh' script in the directory where you want to install the game.
